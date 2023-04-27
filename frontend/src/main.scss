@@ -1,0 +1,25 @@
+// Import Variables and mixins
+@import "scss/abstracts/breakpoints";
+@import "scss/abstracts/variables";
+@import "scss/abstracts/mixins";
+@import "scss/abstracts/buttons";
+// Import style
+@import "scss/styles.scss";
+// Import utils
+@import "scss/utils/utils";
+// Import Component
+@import "scss/components/header";
+@import "scss/components/footer";
+@import "scss/components/about";
+@import "scss/components/modal";
+@import "scss/components/nav";
+@import "scss/components/toggle";
+@import "scss/components/destinations";
+@import "scss/components/destinationsInfo";
+@import "scss/components/cities";
+@import "scss/components/services";
+@import "scss/components/review";
+@import "scss/components/gallery";
+@import "scss/components/pageContainer";
+// Import Layout File
+@import "scss/layout/layout";
