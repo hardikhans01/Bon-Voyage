@@ -19,6 +19,10 @@
 
 ## How to use
 
+```
+run 'npm run start' command in frontend and backend folder respectively .
+```
+
 ```javascript
 npm i
 npm run dev ( product )
